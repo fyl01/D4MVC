@@ -1,1 +1,1 @@
-Code for paper D4MVC: Differentiated Dual-supervised Deep Distributied Multi-view Clustering. 
+Code for paper D4MVC: Differentiated Dual-supervised Deep Distributed Multi-view Clustering. 
